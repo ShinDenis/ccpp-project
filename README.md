@@ -11,7 +11,7 @@
 **Датасет:** [UCI CCPP Dataset](https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant) — 9568 наблюдений, 5 переменных.
 
 ---
-# Этапы и итоги проекта: `Power plant project presentation`.
+# Этапы и итоги проекта: [`Power plant project presentation`]( https://github.com/ShinDenis/ccpp-project/blob/main/Power%20plant%20project%20presentation.pdf)
 
 ## Методология
 
