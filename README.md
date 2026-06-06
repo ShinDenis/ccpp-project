@@ -12,6 +12,10 @@
 
 ---
 # Этапы и итоги проекта: [`Power plant project presentation`]( https://github.com/ShinDenis/ccpp-project/blob/main/Power%20plant%20project%20presentation.pdf)
+<a href="https://github.com/ShinDenis/ccpp-project/raw/main/Power%20plant%20project%20presentation.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Скачть презентацию PDF%20-blue?style=for-the-badge" alt="Скачать презентацию">
+</a>
+
 
 ## Методология
 
